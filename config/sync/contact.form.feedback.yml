@@ -1,0 +1,14 @@
+uuid: 3c9a405b-b29e-4625-b071-ef4c8a8a80c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - composer@drupaltutor.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
